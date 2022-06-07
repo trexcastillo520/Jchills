@@ -9,7 +9,7 @@
   "NFT_NAME": "Jfruity: chills",
   "SYMBOL": "FRUIT",
   "MAX_SUPPLY": 999,
-  "WEI_COST": 4000000000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST":"free",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
