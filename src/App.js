@@ -246,16 +246,16 @@ function App() {
               style={{
                 textAlign: "center",
               }}
-            >
+            > 
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("https://twitter.com/jfruitychills_", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Roadmap
+                Twitter
               </StyledButton>
               <StyledButton
                 style={{
